@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm [Dinotocat](https://octodex.github.com/dinotocat/)
+(Yes i got this format off of my good friend [RiskyMH](https://github.com/RiskyMH))
+
 <!--
 **SupaSonic007/SupaSonic007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
