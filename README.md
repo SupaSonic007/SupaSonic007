@@ -8,3 +8,6 @@ I'm doing stuff. Mostly cool stuff. Some boring stuff though...
 Cool Discord bot, private repository though 'cause it's so cool...
 
 Gotta learn new things though!
+
+Though count:
+4 (including this though, 5 now)
